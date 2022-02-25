@@ -15,7 +15,7 @@ const wordSearch = (letters, word) => {
   }
   return false;
 };
-    
+// working with Liam and mentor
 
 const transpose = function(matrix) {
   let resultArr = [];
